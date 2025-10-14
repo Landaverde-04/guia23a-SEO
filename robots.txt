@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://landaverde-04.github.io/Parcial2-TPI/sitemap.xml
