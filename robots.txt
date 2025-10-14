@@ -1,3 +1,3 @@
 User-agent: *
 Allow: /
-Sitemap: https://landaverde-04.github.io/Parcial2-TPI/sitemap.xml
+Sitemap: https://landaverde-04.github.io/guia23a-SEO/sitemap.xml
