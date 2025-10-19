@@ -1,15 +1,187 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
-  <url>
-    <loc>https://landaverde-04.github.io/guia23a-SEO/</loc>
-  </url>
-  <url>
-    <loc>https://landaverde-04.github.io/guia23a-SEO/materiales.html</loc>
-  </url>
-  <url>
-    <loc>https://landaverde-04.github.io/guia23a-SEO/fuentes_informacion/fuentes.html</loc>
-  </url>
-  <url>
-    <loc>https://landaverde-04.github.io/guia23a-SEO/descargas/descargas.html</loc>
-  </url>
+<urlset
+      xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+      xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+      xsi:schemaLocation="http://www.sitemaps.org/schemas/sitemap/0.9
+            http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd">
+<!-- created with Free Online Sitemap Generator www.xml-sitemaps.com -->
+
+
+<url>
+  <loc>https://landaverde-04.github.io/guia23a-SEO/</loc>
+  <lastmod>2025-10-19T03:19:38+00:00</lastmod>
+  <priority>1.00</priority>
+</url>
+<url>
+  <loc>https://landaverde-04.github.io/guia23a-SEO/materiales.html</loc>
+  <lastmod>2025-10-19T03:19:38+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://landaverde-04.github.io/guia23a-SEO/fuentes_informacion/fuentes.html</loc>
+  <lastmod>2025-10-19T03:19:38+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://landaverde-04.github.io/guia23a-SEO/descargas/descargas.html</loc>
+  <lastmod>2025-10-19T03:19:38+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://landaverde-04.github.io/guia23a-SEO/index.html</loc>
+  <lastmod>2025-10-19T03:19:38+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://landaverde-04.github.io/guia23a-SEO/clases/clases.html</loc>
+  <lastmod>2025-10-19T03:19:38+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://landaverde-04.github.io/guia23a-SEO/guias/guias.html</loc>
+  <lastmod>2025-10-19T03:19:38+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://landaverde-04.github.io/guia23a-SEO/fuentes_informacion/bibliografia.html</loc>
+  <lastmod>2025-10-19T03:19:38+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://landaverde-04.github.io/guia23a-SEO/fuentes_informacion/enlaces.html</loc>
+  <lastmod>2025-10-19T03:19:38+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://landaverde-04.github.io/guia23a-SEO/descargas/linux/linux.html</loc>
+  <lastmod>2025-10-19T03:19:38+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://landaverde-04.github.io/guia23a-SEO/descargas/windows/windows.html</loc>
+  <lastmod>2025-10-19T03:19:38+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://landaverde-04.github.io/guia23a-SEO/clases/unidad_i/amenazas_en_internet.doc</loc>
+  <lastmod>2025-10-19T03:19:38+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://landaverde-04.github.io/guia23a-SEO/clases/unidad_i/historia_de_internet.doc</loc>
+  <lastmod>2025-10-19T03:19:38+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://landaverde-04.github.io/guia23a-SEO/clases/unidad_i/servicios_de_internet.doc</loc>
+  <lastmod>2025-10-19T03:19:38+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://landaverde-04.github.io/guia23a-SEO/clases/unidad_i/unidad_i_clase1.ppt</loc>
+  <lastmod>2025-10-19T03:19:38+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://landaverde-04.github.io/guia23a-SEO/clases/unidad_i/unidad_i_clase2.ppt</loc>
+  <lastmod>2025-10-19T03:19:38+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://landaverde-04.github.io/guia23a-SEO/clases/unidad_ii/arquitecturas_componentes.doc</loc>
+  <lastmod>2025-10-19T03:19:38+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://landaverde-04.github.io/guia23a-SEO/clases/unidad_ii/modelo_tres_capas.doc</loc>
+  <lastmod>2025-10-19T03:19:38+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://landaverde-04.github.io/guia23a-SEO/clases/unidad_ii/unidad_ii_clase1.ppt</loc>
+  <lastmod>2025-10-19T03:19:38+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://landaverde-04.github.io/guia23a-SEO/clases/unidad_ii/unidad_ii_clase2.ppt</loc>
+  <lastmod>2025-10-19T03:19:38+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://landaverde-04.github.io/guia23a-SEO/clases/unidad_iii/manual_html1.doc</loc>
+  <lastmod>2025-10-19T03:19:38+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://landaverde-04.github.io/guia23a-SEO/clases/unidad_iii/manual_html2.doc</loc>
+  <lastmod>2025-10-19T03:19:38+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://landaverde-04.github.io/guia23a-SEO/clases/unidad_iii/unidad_iii_clase1.ppt</loc>
+  <lastmod>2025-10-19T03:19:38+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://landaverde-04.github.io/guia23a-SEO/clases/unidad_iii/unidad_iii_clase2.ppt</loc>
+  <lastmod>2025-10-19T03:19:38+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://landaverde-04.github.io/guia23a-SEO/clases/unidad_iii/unidad_iii_clase3.ppt</loc>
+  <lastmod>2025-10-19T03:19:38+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://landaverde-04.github.io/guia23a-SEO/guias/lab/guiaslab.html</loc>
+  <lastmod>2025-10-19T03:19:38+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://landaverde-04.github.io/guia23a-SEO/guias/disc/guiasdisc.html</loc>
+  <lastmod>2025-10-19T03:19:38+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://landaverde-04.github.io/guia23a-SEO/descargas/linux/clientes/linuxcli.html</loc>
+  <lastmod>2025-10-19T03:19:38+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://landaverde-04.github.io/guia23a-SEO/descargas/linux/servidores/linuxserv.html</loc>
+  <lastmod>2025-10-19T03:19:38+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://landaverde-04.github.io/guia23a-SEO/descargas/windows/clientes/wincli.html</loc>
+  <lastmod>2025-10-19T03:19:38+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://landaverde-04.github.io/guia23a-SEO/descargas/windows/servidores/winserv.html</loc>
+  <lastmod>2025-10-19T03:19:38+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://landaverde-04.github.io/guia23a-SEO/guias/lab/lab_guia1.doc</loc>
+  <lastmod>2025-10-19T03:19:38+00:00</lastmod>
+  <priority>0.41</priority>
+</url>
+<url>
+  <loc>https://landaverde-04.github.io/guia23a-SEO/guias/lab/lab_guia2.doc</loc>
+  <lastmod>2025-10-19T03:19:38+00:00</lastmod>
+  <priority>0.41</priority>
+</url>
+<url>
+  <loc>https://landaverde-04.github.io/guia23a-SEO/guias/disc/disc_guia1.doc</loc>
+  <lastmod>2025-10-19T03:19:38+00:00</lastmod>
+  <priority>0.41</priority>
+</url>
+<url>
+  <loc>https://landaverde-04.github.io/guia23a-SEO/guias/disc/disc_guia2.doc</loc>
+  <lastmod>2025-10-19T03:19:38+00:00</lastmod>
+  <priority>0.41</priority>
+</url>
+
+
 </urlset>
