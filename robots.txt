@@ -1,3 +1,11 @@
+# Bloque para todos los rastreadores (User-agent: *)
+# Esto incluye a Google, Bing, etc.
 User-agent: *
-Allow: /
-Sitemap: https://landaverde-04.github.io/guia23a-SEO/sitemap.xml
+
+# No se prohíbe el rastreo de ninguna URL (permitir todo)
+# Si quisieras bloquear una carpeta, se vería así: Disallow: /carpeta-privada/
+Disallow:
+
+# Especifica la ubicación del archivo Sitemap para ayudar a la indexación
+# Nota: La URL es absoluta, incluyendo el dominio.
+Sitemap: https://gadgetsv.neocities.org/sitemap.xml

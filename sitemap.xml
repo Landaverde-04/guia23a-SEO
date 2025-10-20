@@ -1,15 +1,92 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
-  <url>
-    <loc>https://landaverde-04.github.io/guia23a-SEO/</loc>
-  </url>
-  <url>
-    <loc>https://landaverde-04.github.io/guia23a-SEO/materiales.html</loc>
-  </url>
-  <url>
-    <loc>https://landaverde-04.github.io/guia23a-SEO/fuentes_informacion/fuentes.html</loc>
-  </url>
-  <url>
-    <loc>https://landaverde-04.github.io/guia23a-SEO/descargas/descargas.html</loc>
-  </url>
+<urlset
+      xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+      xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+      xsi:schemaLocation="http://www.sitemaps.org/schemas/sitemap/0.9
+            http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd">
+<!-- created with Free Online Sitemap Generator www.xml-sitemaps.com -->
+
+
+<url>
+  <loc>https://gadgetsv.neocities.org/</loc>
+  <lastmod>2025-10-19T21:27:28+00:00</lastmod>
+  <priority>1.00</priority>
+</url>
+<url>
+  <loc>https://gadgetsv.neocities.org/materiales</loc>
+  <lastmod>2025-10-19T21:16:50+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://gadgetsv.neocities.org/fuentes_informacion/fuentes</loc>
+  <lastmod>2025-10-19T21:17:30+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://gadgetsv.neocities.org/descargas/descargas</loc>
+  <lastmod>2025-10-19T21:17:29+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://gadgetsv.neocities.org/clases/clases</loc>
+  <lastmod>2025-10-19T21:17:28+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://gadgetsv.neocities.org/guias/guias</loc>
+  <lastmod>2025-10-19T21:17:30+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://gadgetsv.neocities.org/fuentes_informacion/bibliografia</loc>
+  <lastmod>2025-10-19T21:17:30+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://gadgetsv.neocities.org/fuentes_informacion/enlaces</loc>
+  <lastmod>2025-10-19T21:17:30+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://gadgetsv.neocities.org/descargas/linux/linux</loc>
+  <lastmod>2025-10-19T21:17:32+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://gadgetsv.neocities.org/descargas/windows/windows</loc>
+  <lastmod>2025-10-19T21:17:32+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://gadgetsv.neocities.org/guias/lab/guiaslab</loc>
+  <lastmod>2025-10-19T21:17:34+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://gadgetsv.neocities.org/guias/disc/guiasdisc</loc>
+  <lastmod>2025-10-19T21:17:34+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://gadgetsv.neocities.org/descargas/linux/clientes/linuxcli</loc>
+  <lastmod>2025-10-19T21:17:35+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://gadgetsv.neocities.org/descargas/linux/servidores/linuxserv</loc>
+  <lastmod>2025-10-19T21:17:35+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://gadgetsv.neocities.org/descargas/windows/clientes/wincli</loc>
+  <lastmod>2025-10-19T21:17:34+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://gadgetsv.neocities.org/descargas/windows/servidores/winserv</loc>
+  <lastmod>2025-10-19T21:17:35+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+
+
 </urlset>
